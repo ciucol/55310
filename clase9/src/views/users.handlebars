@@ -1,0 +1,28 @@
+<h1>Hola {{object.name}}</h1>
+<h2>{{style}}</h2>
+
+{{#if isAdmin}}
+  <h5>Nombre</h5>
+  <p>{{object.name}}</p>
+  <br>
+  <h5>Apellido</h5>
+  <p>{{object.lastname}}</p>
+  <br>
+  <h5>País</h5>
+  <p>{{object.country}}</p>
+  <br>
+  <h3 class="miClase">Juguetes</h3>
+  {{#each toys}}
+    <div>
+      <h3>Nombre</h3>
+      <p>{{this.name}}</p>
+      <h4>Precio</h4>
+      <p>{{this.price}}</p>
+    </div>
+  {{/each}}
+{{else}}
+  <h3>No eres admin</h3>
+{{/if}}
+
+<script src="/js/index.js"></script>
+

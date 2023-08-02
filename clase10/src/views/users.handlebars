@@ -1,0 +1,44 @@
+<h1>Users</h1>
+
+{{!-- <form action="/users" method="post">
+  <label for="">Nombre</label>
+  <input type="text" name="name">
+
+  <label for="">Correo</label>
+  <input type="email" name="email">
+
+  <label for="">Password</label>
+  <input type="password" name="password">
+
+  <label for="">Imagen</label>
+  <input type="file" name="image">
+
+  <button type="submit">Crear Usuario</button>
+</form> --}}
+
+
+<form id="createForm">
+  <label for="">Nombre</label>
+  <input type="text" name="name" id="" placeholder="Ingresa el nombre">
+
+  <label for="">Correo</label>
+  <input type="email" name="email" id="" placeholder="Ingresa el email">
+
+  <label for="">Password</label>
+  <input type="password" name="password" id="" placeholder="Ingresa el pass">
+
+  <button type="submit">Crear Usuario</button>
+</form>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/users.js"></script>
+
+{{#each products}}
+<ul>
+  <label for="">Nombre</label>
+  <li>this.name</li>
+
+  
+  <li>this.price</li>
+</ul>
+{{/each}}
