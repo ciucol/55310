@@ -5,6 +5,8 @@ const MongoStore = require('connect-mongo')
 const handlebars = require('express-handlebars')
 const mongoConnect = require('./db')
 const router = require('./router')
+const initilizePassport = require('./config/passport.config')
+const passport = require('passport')
 
 const app = express()
 
@@ -25,6 +27,9 @@ app.use(
     saveUninitialized: false,
   })
 )
+initilizePassport()
+app.use(passport.initialize())
+app.use(passport.session())
 
 app.engine('handlebars', handlebars.engine())
 app.set('views', __dirname + '/views')
