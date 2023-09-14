@@ -1,5 +1,7 @@
 const { Router } = require('express')
 const { generateToken, authToken } = require('../utils/jwt.util')
+const roles = require('../middlewares/roles.middleware')
+const ROLES = require('../constants/roles.constant')
 
 const router = Router()
 
@@ -22,14 +24,19 @@ router.post('/login', async (req, res) => {
   res.json({ status: 'Success', message: 'Logged in', token })
 })
 
-router.get('/', authToken, (req, res) => {
-  const user = {
-    name: 'Mate',
-    lastname: 'Naran',
-    role: 'user',
-  }
+router.get(
+  '/',
+  authToken,
+  roles(ROLES.ADMIN, ROLES.SUPER_ADMIN),
+  (req, res) => {
+    const user = {
+      name: 'Mate',
+      lastname: 'Naran',
+      role: 'user',
+    }
 
-  res.json({ message: user })
-})
+    res.json({ message: user })
+  }
+)
 
 module.exports = router

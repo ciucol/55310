@@ -18,10 +18,7 @@ const authToken = (req, res, next) => {
     if (error)
       return res.status(403).json({ status: 'error', error: 'Forbidden' })
 
-    req.user = {
-      ...credentials.user,
-      role: 'admin',
-    }
+    req.user = credentials.user
     next()
   })
 }
