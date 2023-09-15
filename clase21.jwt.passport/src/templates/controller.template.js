@@ -1,6 +1,7 @@
 const { Router } = require('express')
 const { authToken } = require('../utils/jwt.util')
 const passport = require('passport')
+const passportCall = require('../utils/passport-call.util')
 
 const router = Router()
 
@@ -16,12 +17,9 @@ router.get('/profile', (req, res) => {
   return res.render('profile')
 })
 
-router.get(
-  '/profile-info',
-  passport.authenticate('jwt', { session: false }),
-  (req, res) => {
-    res.json({ message: 'info del usuario' })
-  }
-)
+router.get('/profile-info', passportCall('jwt'), (req, res) => {
+  const users = [{ name: 'Mate' }, { name: 'Titín' }, { name: 'Bebe nuevo' }]
+  res.json({ message: users })
+})
 
 module.exports = router

@@ -22,6 +22,7 @@ const authToken = (req, res, next) => {
       ...credentials.user,
       role: 'admin',
     }
+
     next()
   })
 }

@@ -7,6 +7,6 @@ app.use(express.json())
 
 router(app)
 
-app.listen(3000, () => {
-  console.log(3000)
+app.listen(3001, () => {
+  console.log(3001)
 })

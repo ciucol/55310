@@ -1,7 +1,8 @@
-const roles = (...role) => {
+const roles = (...roles) => {
   return (req, res, next) => {
-    if (!role.includes(req.user.role)) {
-      return res.json({ status: 'error', error: 'Role not found' })
+    console.log(next)
+    if (!roles.includes(req.user.role)) {
+      return res.status(403).json({ status: 'error', error: 'Forbiden' })
     }
     next()
   }
