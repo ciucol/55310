@@ -17,5 +17,6 @@ const resolveOrder = (req, res) => {
 module.exports = {
   getOrders,
   getOrdersById,
+  createOrder,
   resolveOrder,
 }
