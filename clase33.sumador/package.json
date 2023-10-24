@@ -1,0 +1,12 @@
+{
+  "name": "sumadorcoder5510",
+  "version": "0.1.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "coder55310",
+  "license": "ISC"
+}
