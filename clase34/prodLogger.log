@@ -1,0 +1,141 @@
+{"level":"warn","message":"Faltan parámetros en la request del cliente"}
+{"level":"http","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"c40dadd5-afec-4e76-abba-75c4603d3f9e\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:22:10 PM"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warn","message":"Faltan parámetros en la request del cliente"}
+{"level":"http","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"76c944a3-5d90-4eca-ba13-87e36ba560d3\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:24:10 PM"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warn","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"0941cdb4-c1fd-4d5f-8bfd-e9cc3433e258\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:35:53 PM"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"adbf508e-c79a-46c7-93d0-8b6ad602ff14\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:36:11 PM"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"88dea1f0-9bdb-4f7e-9076-fb327ff6658b\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:41:27 PM"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"42839c5f-d382-422d-9577-c5a68b9fc216\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:41:50 PM"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"621170af-ded9-43e7-800a-d987a3df99f8\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:44:40 PM"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"685468d9-a8bd-4e7b-b478-8dc9e57f142f\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:44:58 PM"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"e05ed7a3-1e23-47ca-b8ed-bc6be7b18f36\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:45:49 PM"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"d7b409f9-7059-4446-aafb-41af1eb08d5c\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:46:32 PM"}
+{"level":"info","message":"body"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"bbdfba08-df15-41c3-8c01-8552a68e8c1d\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:46:45 PM"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"45c5daf5-2104-46c9-b341-377edd2252c2\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:46:56 PM"}
+{"level":"info","message":{"name":"Mate"}}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"445c5c2e-b788-4032-98b0-729ac5276417\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:47:06 PM"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"b5048249-5198-483e-a730-80a3ab7d40a2\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:47:17 PM"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"96278ade-b7e9-44a1-9871-9baf4dc037d6\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:47:37 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"2b672002-e020-4c3a-a4eb-c170eb227c00\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:47:48 PM"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"ad61605a-19f5-4cf5-a9ae-0c9affb8ebdc\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:48:15 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"1d3018f9-99bb-4f76-8a6c-c855acf4ac2a\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:50:27 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"ff488e74-022a-4db5-af45-7cc039b07a7d\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:50:27 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"d9a92bc9-8666-48eb-ab76-5229ee5c58c3\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:50:28 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"0b8f529c-a4f3-467d-b7d8-a796547bce1a\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:50:28 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"2e416630-8e5e-451c-9254-a17a2c28e618\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:50:29 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"643ba06f-94d6-4564-9540-9f640ca40571\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:50:29 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"d110fb08-3d97-4900-9f0e-d8cfa6627415\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:50:30 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"40b43d00-824c-402a-9d3d-c367b5cfb91d\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:50:32 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"eafabe86-d34b-46b9-b94a-9564e7c61087\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:50:32 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"35040921-9444-4c18-9ab3-4a68a277d45e\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:50:33 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"2a14ec7f-5f29-4b03-8cac-84f39f7fb3ea\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:50:33 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"d9971248-1281-4a6a-86d3-66ce8f7d8d53\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:50:34 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"12430631-10c4-45f6-a6a6-f63e5bcc439a\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:50:34 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"62af3731-1b08-4372-8561-8409d0a515aa\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:50:35 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"ac0b5fd2-5cfb-4b18-9dbe-6eadb3c26fbb\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:50:35 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"1b0e54b1-7a88-4a80-b751-36e104a58440\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:50:35 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"01342d52-2abd-4d0e-8e87-524d120e9269\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:54:21 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"d313fffc-65ea-415a-b01a-abf599960e36\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:54:22 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"632a40e3-3ff6-4488-ab52-c3bf2f5a88e2\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:54:23 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"6aa5a2be-5860-4e21-a243-b27196a3e9ff\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:54:23 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"4fa1611b-2fda-4d63-8784-b7c76fc14fca\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:54:24 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"f8227169-c157-4b3f-8626-8f2f5e01de68\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:54:24 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"2ea3fbad-1223-4cc3-81c4-5338259a8689\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:54:25 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"c74a3c40-b2ea-41ad-97ad-3a266f425864\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:54:26 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
+{"level":"info","message":"Method: POST en /users?order=ASC - Headers: {\"content-type\":\"application/json\",\"user-agent\":\"PostmanRuntime/7.32.3\",\"accept\":\"*/*\",\"cache-control\":\"no-cache\",\"postman-token\":\"0ef5a7a6-33f7-4b48-bf53-15b417787d4c\",\"host\":\"localhost:3000\",\"accept-encoding\":\"gzip, deflate, br\",\"connection\":\"keep-alive\",\"content-length\":\"22\"} - Params: {} - Queries: {\"order\":\"ASC\"} - Body: {\"name\":\"Mate\"} - 8:57:28 PM"}
+{"level":"info","message":"{\"name\":\"Mate\"}"}
+{"level":"debug","message":"el code es 17509"}
+{"level":"warning","message":"Faltan parámetros en la request del cliente"}
