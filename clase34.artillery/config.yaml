@@ -1,0 +1,13 @@
+config:
+  plugins:
+    metric-by-endpoint: {}
+  target: 'http://localhost:8080'
+  phases:
+    - duration: 20
+      arrivalRate: 10
+scenarios:
+  - name: "Prueba sencilla"
+    flow:
+      - log: "Probando el endpoint de operación sencilla porque Facu lo pidió"
+      - get:
+          url: '/sencilla'

@@ -13,7 +13,7 @@ app.get('/sencilla', (req, res) => {
 
 app.get('/compleja', (req, res) => {
   let sum = 1
-  for (let i = 0; i < 5e8; i++) {
+  for (let i = 0; i < 5e7; i++) {
     sum += i
   }
 
